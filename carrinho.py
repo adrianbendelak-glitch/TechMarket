@@ -1,3 +1,5 @@
+
+#Feito por Manuela Cardozo
 class CarrinhoCompras:
     def __init__(self, itens, valor_total, status_compra):
         self.itens = []
